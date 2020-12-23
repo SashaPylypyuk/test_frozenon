@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 120px" class="m-5 mx-auto w-75">
+  <div style="height: 120px" class="m-3 mx-auto w-75">
     <b-form @submit.prevent="findPackges" class="mb-2 d-flex justify-content-around">
       <b-form-input v-model="localQuery" class="w-50"/>
       <b-button :disabled="isLoading" type="submit">

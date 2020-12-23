@@ -5,7 +5,7 @@ export default {
     packages: [],
     singlePack: [],
     rawPackages: [],
-    query: 'vue',
+    query: '',
     pagination: {
       perPage: 5,
       page: 1,
