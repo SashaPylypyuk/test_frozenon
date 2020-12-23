@@ -1,24 +1,20 @@
-# test_frozenon
+# test task frozenon
+It's simple SPA for searching npm's packs, styled with the bootstrap and vue-bootstrap. You can view some detail about pack in table and more ditail on modal window.
 
-## Project setup
-```
-npm install
-```
+App hosted on heroku [click here!](https://glacial-wildwood-76220.herokuapp.com/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# What used
+- HTML
+- CSS
+- bootstrap
+- Js
+- Vue
+- Vuex
+# How to start
+- clone repo
+- npm i
+- npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
